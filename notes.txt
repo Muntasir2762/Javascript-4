@@ -1,0 +1,29 @@
+
+
+
+Loop
+
+1. for Loop
+2. while Loop
+3. do while Loop
+4. foreach Loop
+
+Loop
+
+1. Initialization
+2. Range/Condition
+3. Increment/Decrement
+
+for Loop...
+
+for(Initialization; Range/Condition; Increment/Decrement){
+    //Satement...
+}
+
+
+++ => Increment Operator
+-- => Decrement Operator
+
+Hello Wordl!
+
+
