@@ -7,10 +7,10 @@
 // console.log('Hello Wordl!');
 
 
-// for(let i=1; i<6; i++){ //1 2 3 4 5 6
-//     console.log(i);
-//     console.log('Hello world!');
-// }
+for(let i=5; i>=1; i--){ //5 4 3 2 1
+    console.log(i);
+    console.log('Hello world!');
+}
 
 let marks = [80, 83, 91, 57, 90, 70, 98, 54, 10, 100];
 
